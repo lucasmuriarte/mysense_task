@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## TAKE HOME TASK ##
 
 You are NOT expected to complete all the tasks (100%) - as you are not expected to have prior experience using apache flink - that said the test is not designed to take too long. Try to spend three hours (it is not timed so you can spend more time if you like), if you feel your stuck and it's taking too long - that's fine, just try to get as far as you can (a useful way is to print intermediate results to console), and note your approach and thinking so we can discuss together during the third stage.
@@ -57,3 +58,6 @@ NB you could augment the command (if desired) in 3 to make an interactive shell 
 
 Either create a new public github repo and share address or zip and then email your solution with the modified code  (there should be one python file for task A and one for task B) and also provide commands such as above to run and get desired output in the output directory. 
  
+=======
+# mysense_task
+>>>>>>> 9904fbe1126a55ba5b5c00dc350edad2bed8578d
